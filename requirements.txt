@@ -1,0 +1,30 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+chromadb
+fastapi
+uvicorn
+streamlit
+pydantic
+python-multipart
+
+# Document processing
+pypdf2
+python-docx
+unstructured
+beautifulsoup4
+markdown
+pandas
+
+# NLP and ML
+nltk
+spacy
+scikit-learn
+numpy
+sentence-transformers
+
+# Utilities
+python-dotenv
+requests
